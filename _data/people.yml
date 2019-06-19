@@ -1,70 +1,12 @@
-- name: Ryan Abernathey
-  pic: ryan.jpg
-  position: Assistant Professor
+- name: Karen Smith
+  pic: KSMITH_photo.png
+  position: Assistant Professor, Teaching Stream
   social:
    - title: envelope
-     url: mailto:rpa@ldeo.columbia.edu
+     url: mailto:karen.smith@utoronto.ca
    - title: twitter
-     url: http://twitter.com/rabernat
+     url: http://twitter.com/climate_karen
    - title: linkedin
-     url: https://www.linkedin.com/pub/ryan-abernathey/52/706/32a
-   - title: vimeo
-     url: https://vimeo.com/user3588357
+     url: https://www.linkedin.com/in/karen-smith-6497b9b2/
    - title: github
-     url: http://github.com/rabernat
-   - title: bitbucket
-     url: http://bitbucket.org/ryanaberanthey
-
-- name: Sjoerd Groeskamp
-  pic: sjoerd.jpg
-  position: Postdoc
-  social:
-   - title: envelope
-     url: mailto:sjoerd@ldeo.columbia.edu
-   - title: external-link
-     url: http://sjoerdgroeskamp.wix.com/
-
-- name: Anirban Sinha
-  pic: anirban.jpg
-  position: Grad Student
-  social:
-    - title: envelope
-      url: mailto:anirbancnha@gmail.com
-    - title: external-link
-      url: https://www.researchgate.net/profile/Anirban_Sinha5
-    - title: github
-      url: https://github.com/anirban89
-    - title: bitbucket
-      url: https://bitbucket.org/anirban89/
-
-- name: Takaya Uchida
-  pic: takaya.jpg
-  position: Grad Student
-  social:
-    - title: envelope
-      url: mailto:takaya@ldeo.columbia.edu
-    - title: external-link
-      url: http://www.columbia.edu/~tu2140/
-    - title: linkedin
-      url: https://www.linkedin.com/pub/takaya-uchida/b4/721/3a2/en
-    - title: github
-      url: https://github.com/roxyboy
-    - title: bitbucket
-      url: https://bitbucket.org/roxyboy/
-
-- name: Ci Zhang
-  pic: cizhang.jpg
-  position: Research Intern
-  social:
-    - title: envelope
-      url: mailto:ci.zhang@columbia.edu
-    - title: external-link
-      url: http://zhangci.bitbucket.org/
-    - title: linkedin
-      url: https://linkedin.com/in/eapsclimate
-    - title: github
-      url: https://github.com/eapsclimate
-    - title: bitbucket
-      url: https://bitbucket.org/eapsclimate
-
-
+     url: http://github.com/kls2177

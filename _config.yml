@@ -4,7 +4,7 @@ gems: ['jekyll/scholar']
 
 # Site settings
 title: Karen Smith
-email: ksmith@ldeo.columbia.edu
+email: karen.smith@utoronto.ca
 description: "Climate and Atmospheric Science"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -20,9 +20,9 @@ paginate_path: "/blog/page:num/"
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: envelope
-    url: mailto:ksmith@ldeo.columbia.edu
- # - title: twitter
- #   url: http://twitter.com/rabernat
+    url: mailto:karen.smith@utoronto.ca
+  - title: twitter
+    url: http://twitter.com/climate_karen
   - title: github
     url: http://github.com/kls2177
 

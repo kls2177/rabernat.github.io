@@ -1,18 +1,23 @@
-- title: Introduction to Physical Oceanography
-  pic: intro_po.jpg
-  url: "http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/W4210-20151-001/"
-  description: "Physical properties of seawater, ocean water masses and their distribution, sea-air interaction, ocean general circulation, mixing processes."
-  offered: Fall 2013, Fall 2014, Fall 2015
+- title: Climate Change Science and Modelling (EES1133)
+  pic: blue_marble.jpg
+  url: "https://www.utsc.utoronto.ca/gradpes/ees1133h-climate-change-science-and-modelling"
+  description: "The course is designed to introduce the fundamental concepts underlying our current understanding of the climate system and to train students to interpret the results of global climate modelling experiments."
+  offered: Fall 2017, 2018
 
-- title: Geophysical Fluid Dynamics
-#  pic: gfd.jpg
-  pic: vortex_rollup.png
-  url: "http://www.columbia.edu/cu/bulletin/uwb/subj/EESC/W4210-20151-001/"
-  description: "Fundamental concepts in the dynamics of rotating stratified flows. Geostrophic and hydrostatic balances, potential vorticity, f and beta plane approximations, gravity and Rossby waves, geostrophic adjustment and quasigeostrophy, baroclinic and barotropic instabilities."
-  offered: Spring 2014, Spring 2016
+- title: Climate Data Analysis (EES1132)
+  pic: gistemp.png
+  url: "https://www.utsc.utoronto.ca/gradpes/ees1132h-climate-data-analysis"
+  description: "This course offers an advanced introduction to climate data analysis. Students will gain an understanding of the theory and methods underlying the statistical analysis of climate data, in the space, time and spectral domains."
+  offered: Fall 2017, 2018
 
-- title: Python for Scientific Computing
-  pic: scipy-stuff.png
-  url: "https://github.com/rabernat/python_teaching"
-  description: "For the past two years, I have taught an informal introduction to python, designed to take a novice from zero to fully functional in about eight hours. Topics include core python language, IPython notebooks, numpy, matplotlib, Basemap, pandas, and xray."
-  offered: September 2014, August 2015
+  - title: Climate Change Impact Assessment (EES1117)
+    pic: map_of_impacts_wgII.png
+    url: "https://www.utsc.utoronto.ca/gradpes/ees1117h-climate-change-impact-assessment"
+    description: "This course describes how climate information can and is being used to assess the regional impacts of climate change and inform decision-making and adaptation strategies."
+    offered: Winter 2018, 2019
+
+    - title: Advanced Seminar in Environmental Science (EES1100)
+      pic: utsc_dpes_image.jpg
+      url: "https://www.utsc.utoronto.ca/gradpes/ees1100h-advanced-seminar-environmental-science"
+      description: "This course is designed to introduce students to the key topics of relevance to research in their chosen fields of study in environmental science."
+      offered: 2017-2018, 2018-2019

@@ -10,14 +10,14 @@
   description: "This course offers an advanced introduction to climate data analysis. Students will gain an understanding of the theory and methods underlying the statistical analysis of climate data, in the space, time and spectral domains."
   offered: Fall 2017, 2018
 
-  - title: Climate Change Impact Assessment (EES1117)
-    pic: map_of_impacts_wgII.png
-    url: "https://www.utsc.utoronto.ca/gradpes/ees1117h-climate-change-impact-assessment"
-    description: "This course describes how climate information can and is being used to assess the regional impacts of climate change and inform decision-making and adaptation strategies."
-    offered: Winter 2018, 2019
+- title: Climate Change Impact Assessment (EES1117)
+  pic: map_of_impacts_wgII.png
+  url: "https://www.utsc.utoronto.ca/gradpes/ees1117h-climate-change-impact-assessment"
+  description: "This course describes how climate information can and is being used to assess the regional impacts of climate change and inform decision-making and adaptation strategies."
+  offered: Winter 2018, 2019
 
-    - title: Advanced Seminar in Environmental Science (EES1100)
-      pic: utsc_dpes_image.jpg
-      url: "https://www.utsc.utoronto.ca/gradpes/ees1100h-advanced-seminar-environmental-science"
-      description: "This course is designed to introduce students to the key topics of relevance to research in their chosen fields of study in environmental science."
-      offered: 2017-2018, 2018-2019
+- title: Advanced Seminar in Environmental Science (EES1100)
+  pic: utsc_dpes_image.jpg
+  url: "https://www.utsc.utoronto.ca/gradpes/ees1100h-advanced-seminar-environmental-science"
+  description: "This course is designed to introduce students to the key topics of relevance to research in their chosen fields of study in environmental science."
+  offered: 2017-2018, 2018-2019

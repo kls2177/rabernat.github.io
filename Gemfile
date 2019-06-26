@@ -4,6 +4,7 @@ gem 'jekyll-gist'
 gem "jekyll-feed"
 gem 'jekyll-scholar', group: :jekyll_plugins
 gem 'jekyll-paginate'
+gem 'unicode_utils', require: false unless RUBY_VERSION >= '2.4'
 
 
 #group :jekyll_plugins do

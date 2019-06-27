@@ -1,14 +1,14 @@
 - name: Polar Climate and Climate Change
   pic: sea_ice_min.jpg
   more: papers
-  description: "."
+  description: "The climate of the polar regions is undergoing unprecedented change as a result of human-caused increases in atmospheric greenhouse gas concentrations. In the Arctic, the surface has warmed at approximately twice the rate of the global mean and sea ice extent has dramtically declined. In the Antarctic, the effect of stratospheric ozone depletion has also had a profound effect on the regional climate. A better understanding of the underlying causes of polar climate change will help to better predict how this change influences variability and change locally and in other parts of the world."
 
 - name: Stratospheric Ozone Depletion and Climate
   pic: ozone_hole_2006.png
   more: papers
-  description: "."
+  description: "Over the latter part of the twentieth century, CFC emissions from human activities caused a dramatic loss of stratospheric ozone, particularly over Antarctica. From a climate perspective, the effects of this ozone loss has not been confined to the stratosphere - ozone depletion has had significant impacts on the tropospheric and surface climate. I study the myriad ways that stratospheric ozone depletion influences climate."
 
 - name: Stratosphere-troposphere Coupling
   pic: ssws_waccm.png
   more: papers
-  description: "."
+  description: "The stratosphere, once thought to be a passive layer above the troposphere, has a robust influence on the tropospheric circulation. This stratosphere-troposphere coupling is reflected in both the stratospheric influence on interannual tropospheric variability and also on long-term trends in the troposphere. My research investigates the drivers of stratosphere-troposphere coupling and the potential for such information to improve seasonal prediction."

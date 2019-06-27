@@ -4,11 +4,11 @@
   description: "."
 
 - name: Stratospheric Ozone Depletion and Climate
-  pic: ??.jpg
+  pic: ozone_hole_2006.png
   more: papers
   description: "."
 
 - name: Stratosphere-troposphere Coupling
-  pic: ??.png
+  pic: ssws_waccm.png
   more: papers
   description: "."
